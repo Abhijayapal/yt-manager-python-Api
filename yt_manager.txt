@@ -1,1 +1,1 @@
-hello ji
+[{"name": " javascript and react", "time": " 55 mins"}, {"name": " backend and node js", "time": " 20 mins"}]
